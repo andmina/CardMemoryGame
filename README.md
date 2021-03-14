@@ -1,5 +1,7 @@
 # Memory Game
 
+This game allows for users to use their own photo and place it on the back of the cards. 
+
 ## About & Usage
 The app uses:
 - Animations in React
